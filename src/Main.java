@@ -5,5 +5,7 @@ public class Main {
 
         PalindromeNumber palindromeNumber = new PalindromeNumber();
         System.out.println(palindromeNumber.isPalindrome(121));
+
+        System.out.println(1 % 2);
     }
 }
